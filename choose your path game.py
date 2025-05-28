@@ -14,5 +14,5 @@ elif way == "left":
           elif exit == "rope":
                print("you almost did it, but the rope is  broken, game over ")
           else:
-               print(" wooooow, you make it, the door was the only way out, you win the game ")
+               print(" wooooow, you make it, the door was the only way out, you won the game ")
                
