@@ -4,7 +4,7 @@ way = input("which way do you want to go?, left or right " )
 if way == "right":
      print(" you choose the wrong way, game over ! ")
 elif way == "left":
-     waterfall =input(" you see a waterfall, do you want to swin or wait ? ")
+     waterfall =input(" you see a waterfall, do you want to swim or wait ? ")
      if waterfall == "swin":
           print("you try to swin but you did not make it, game over ! ")
      elif waterfall == "wait":
